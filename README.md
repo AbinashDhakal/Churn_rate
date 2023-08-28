@@ -33,9 +33,9 @@ Average of 1.47 customer service calls per customer translates to a churn rate o
 Proposed Business Strategies
 Based on the insights gathered, several potential strategies are recommended to address churn and enhance customer retention for Databel:
 
-## Targeted International Plan Offers: Reach out to customers without international plans who exhibit potential interest in international calling. Propose downgrading to a cost-effective plan with an explanation, anticipating improved customer satisfaction and reduced churn.
+Targeted International Plan Offers: Reach out to customers without international plans who exhibit potential interest in international calling. Propose downgrading to a cost-effective plan with an explanation, anticipating improved customer satisfaction and reduced churn.
 
-## Payment Method Investigation: Given the correlation between direct debit payments and high churn, conduct an in-depth analysis of payment processing. This investigation could uncover underlying payment issues that might be contributing to customer attrition.
+Payment Method Investigation: Given the correlation between direct debit payments and high churn, conduct an in-depth analysis of payment processing. This investigation could uncover underlying payment issues that might be contributing to customer attrition.
 
 ## Conclusion
 This repository presents a comprehensive Power BI case study analyzing customer churn rates for Databel Telecom. The insights gained provide valuable direction for devising strategies aimed at enhancing customer retention and addressing the underlying causes of churn. By leveraging data-driven decision-making, Databel can strengthen its customer base and foster long-term growth.
